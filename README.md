@@ -70,12 +70,12 @@ unzip CRUD-UPLOAD-DE-ARQUIVOS-EM-PHP.zip
 
    ```sql
    CREATE TABLE `files` (
-  `id` int(11) NOT NULL,
-  `file_name` varchar(255) DEFAULT NULL,
-  `file_size` int(11) DEFAULT NULL,
-  `file_type` varchar(100) DEFAULT NULL,
-  `uploaded_at` timestamp NOT NULL DEFAULT current_timestamp()
-   ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+   `id` int(11) NOT NULL,
+   `file_name` varchar(255) DEFAULT NULL,
+   `file_size` int(11) DEFAULT NULL,
+   `file_type` varchar(100) DEFAULT NULL,
+   `uploaded_at` timestamp NOT NULL DEFAULT current_timestamp()
+      ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
    ```
 
 2. **Configuração do PHP:**
