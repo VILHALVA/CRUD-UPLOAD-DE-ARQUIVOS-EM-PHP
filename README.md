@@ -1,11 +1,11 @@
 # CRUD UPLOAD DE ARQUIVOS EM PHP
 👨‍🏫CRUD DE MULTIMIDIAS EM HTML, CSS, PHP E MYSQL.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> <br> 
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> <br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> <br>
+<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> <br>
 <img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
