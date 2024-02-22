@@ -65,7 +65,7 @@ unzip CRUD-UPLOAD-DE-ARQUIVOS-EM-PHP.zip
    
    - Aqui estão as instruções para importar um arquivo SQL para o MySQL via shell e via phpMyAdmin:
 
-   ** Via Shell (linha de comando):**
+   **Via Shell (linha de comando):**
 
    1. Abra o terminal ou prompt de comando.
    2. Certifique-se de que o servidor MySQL esteja em execução. Se não estiver, inicie o servidor MySQL usando o comando apropriado para o seu sistema operacional.
@@ -80,7 +80,7 @@ unzip CRUD-UPLOAD-DE-ARQUIVOS-EM-PHP.zip
       
       Você será solicitado a inserir a senha após executar este comando.
 
-   ** Via phpMyAdmin:**
+   **Via phpMyAdmin:**
 
    1. Abra o phpMyAdmin em seu navegador. O URL pode variar dependendo da sua configuração, mas geralmente é algo como `http://localhost/phpmyadmin`.
    2. Faça login com suas credenciais de usuário MySQL.
