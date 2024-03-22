@@ -9,7 +9,7 @@
 <img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
-O aplicativo [CRUD](./CRUD.md) de upload de arquivos em PHP e MySQL é uma ferramenta simples, mas poderosa, que permite aos usuários gerenciar facilmente o armazenamento e a manipulação de arquivos em um sistema web. Com este aplicativo, os usuários podem realizar uma variedade de tarefas relacionadas a arquivos, incluindo upload, visualização, edição e exclusão, tudo através de uma interface amigável e intuitiva:
+O aplicativo CRUD de upload de arquivos em PHP e MySQL é uma ferramenta simples, mas poderosa, que permite aos usuários gerenciar facilmente o armazenamento e a manipulação de arquivos em um sistema web. Com este aplicativo, os usuários podem realizar uma variedade de tarefas relacionadas a arquivos, incluindo upload, visualização, edição e exclusão, tudo através de uma interface amigável e intuitiva:
 
 1. **Upload de Arquivos**:
    - Os usuários podem fazer upload de arquivos para o sistema através de um formulário na página principal do aplicativo.
@@ -39,27 +39,7 @@ O aplicativo [CRUD](./CRUD.md) de upload de arquivos em PHP e MySQL é uma ferra
 
 Esses recursos combinados proporcionam aos usuários uma maneira eficiente de fazer upload, gerenciar e manipular arquivos dentro do sistema, permitindo uma experiência de usuário intuitiva e fácil de usar.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CRUD-UPLOAD-DE-ARQUIVOS-EM-PHP.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CRUD-UPLOAD-DE-ARQUIVOS-EM-PHP
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CRUD-UPLOAD-DE-ARQUIVOS-EM-PHP.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Importar o `DATABASE.sql`**
    - Como você já baixou esse projeto com uma foto de modelo dentro de `CODIGO/uploads/PHP.png`, é de suma importância que você import o database. 
    
@@ -91,7 +71,6 @@ unzip CRUD-UPLOAD-DE-ARQUIVOS-EM-PHP.zip
    7. Aguarde até que o phpMyAdmin conclua a importação. Isso pode levar algum tempo, dependendo do tamanho do arquivo SQL e do desempenho do seu servidor.
 
 2. **Configuração do PHP:**
-
    - Abra o arquivo `config.php` e ajuste as configurações do banco de dados:
 
      ```php
@@ -102,7 +81,6 @@ unzip CRUD-UPLOAD-DE-ARQUIVOS-EM-PHP.zip
      ```
 
 3. **Executando o Aplicativo:**
-
    - Coloque os arquivos em um servidor web compatível com PHP (por exemplo, XAMPP, WAMP, LAMP).
    - Acesse o formulário no navegador visitando `http://localhost/CODIGO/index.php`.
 
