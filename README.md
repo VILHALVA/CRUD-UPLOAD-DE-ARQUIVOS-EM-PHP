@@ -42,33 +42,6 @@ Esses recursos combinados proporcionam aos usuários uma maneira eficiente de fa
 ## EXECUTANDO O PROJETO:
 1. **Importar o `DATABASE.sql`**
    - Como você já baixou esse projeto com uma foto de modelo dentro de `CODIGO/uploads/PHP.png`, é de suma importância que você import o database. 
-   
-   - Aqui estão as instruções para importar um arquivo SQL para o MySQL via shell e via phpMyAdmin:
-
-   **Via Shell (linha de comando):**
-
-   1. Abra o terminal ou prompt de comando.
-   2. Certifique-se de que o servidor MySQL esteja em execução. Se não estiver, inicie o servidor MySQL usando o comando apropriado para o seu sistema operacional.
-   3. Navegue até o diretório onde o arquivo `DATABASE.sql` está localizado, usando o comando `cd` (change directory).
-   4. Use o utilitário `mysql` para importar o arquivo SQL para o MySQL. O comando será semelhante ao seguinte:
-
-      ```bash
-      mysql -u username -p upload < DATABASE.sql
-      ```
-
-      Substitua `username` pelo seu nome de usuário MySQL.
-      
-      Você será solicitado a inserir a senha após executar este comando.
-
-   **Via phpMyAdmin:**
-
-   1. Abra o phpMyAdmin em seu navegador. O URL pode variar dependendo da sua configuração, mas geralmente é algo como `http://localhost/phpmyadmin`.
-   2. Faça login com suas credenciais de usuário MySQL.
-   3. No painel do phpMyAdmin, clique no banco de dados para o qual deseja importar os dados ou crie um novo banco de dados, se necessário.
-   4. Depois de selecionar o banco de dados, clique na guia "Importar" na parte superior da página.
-   5. Na seção "Arquivo a ser importado", clique em "Escolher arquivo" e selecione o arquivo `DATABASE.sql` em seu computador.
-   6. Clique em "Executar" ou "Importar" para iniciar o processo de importação.
-   7. Aguarde até que o phpMyAdmin conclua a importação. Isso pode levar algum tempo, dependendo do tamanho do arquivo SQL e do desempenho do seu servidor.
 
 2. **Configuração do PHP:**
    - Abra o arquivo `config.php` e ajuste as configurações do banco de dados:
