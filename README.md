@@ -62,7 +62,7 @@ Esses recursos combinados proporcionam aos usuários uma maneira eficiente de fa
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE PHP](https://github.com/VILHALVA/CURSO-DE-PHP)
 * [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
-* [CURSO DE MYSQL COM PHP](https://github.com/VILHALVA/CURSO-DE-MYSQL-COM-PHP)
+* [CURSO DE PHP COM MYSQL](https://github.com/VILHALVA/CURSO-DE-PHP-COM-MYSQL)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
